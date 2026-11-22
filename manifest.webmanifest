@@ -1,0 +1,16 @@
+{
+  "name": "Fix-It Bot",
+  "short_name": "Fix-It Bot",
+  "description": "A coding game for ages 5 to 8: line up arrows, fix the code, fix the town.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF4DE",
+  "theme_color": "#FFF4DE",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
